@@ -3,6 +3,8 @@ Robo Project Two
 In this project I used what I learned about how to control a robot with six degrees of freedom to perform pick and place actions using inverse kinematics. I had the pleasure of using Gazebo in order to simulate the manipulation of a 6 DOF KR210 robot. The task was for the robot to oick up a cyclinder from a shelf and place it in a bin near to the robot. By manipulating some of the provided code, the position of the cylinders on the shelf could either be randomly chosen or not. For this exercise they position of the cylinders was randomly chosen. During the completion of this project I had the pleasure of deep diving into forward and inverse kinematics in order to calculate motor angles, joint angles, and speeds while performing the simulated tasks. 
 
  ![alt tag](https://d17h27t6h515a5.cloudfront.net/topher/2017/July/5975d719_fk/fk.png)
+ 
+ ![alt tag](https://classroom.udacity.com/nanodegrees/nd209/parts/c199593e-1e9a-4830-8e29-2c86f70f489e/modules/8855de3f-2897-46c3-a805-628b5ecf045b/lessons/91d017b1-4493-4522-ad52-04a74a01094c/concepts/a1abb738-84ee-48b1-82d7-ace881b5aec0)
 
 
 Rubric Component

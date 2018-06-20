@@ -45,6 +45,8 @@ Rubric Component
     
     Successfully completing pick and place
     
+![alt tag](C:\Users\cr566c\Desktop\Python Programs\Pick and Place 1.png)
+
 Code
 
     Code Explanation

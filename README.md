@@ -16,39 +16,39 @@ In this project I used what I learned about how to control a robot with six degr
 
 Rubric Component
 
-    Kinematics
+Kinematics
     
-    ![alt tag](https://d17h27t6h515a5.cloudfront.net/topher/2017/July/5975d719_fk/fk.png)
     
-    DH Parameter Table
     
-    Annotated figure of the robot
+DH Parameter Table
     
-    Pen and paper figure
+Annotated figure of the robot
     
-    Using the DH paramter to create individual transform matrices about each joint
+Pen and paper figure
     
-    Generalized homogeneous transform between base_link and gripper_link using on end effector pose
+Using the DH paramter to create individual transform matrices about each joint
     
-    Handwritten matrices
+Generalized homogeneous transform between base_link and gripper_link using on end effector pose
     
-    Explanation of how the matrices were created
+Handwritten matrices
     
-    Decoupled inverse kinematics problem into inverse position kinematics and inverse orientation kinematics
+Explanation of how the matrices were created
     
-    Derived equations for calculating joint angles
+Decoupled inverse kinematics problem into inverse position kinematics and inverse orientation kinematics
     
-    Best solution among multiple solutions
+Derived equations for calculating joint angles
     
-    Actual electronic project implementation
+Best solution among multiple solutions
     
-    IK_server.py with properly commented python code for calculating inverse kinematics based on previous kinematic analysis
+Actual electronic project implementation
     
-    80% pick and place cycles with screenshots
+IK_server.py with properly commented python code for calculating inverse kinematics based on previous kinematic analysis
     
-    Tracking the planned trajectory
+80% pick and place cycles with screenshots
     
-    Successfully completing pick and place
+Tracking the planned trajectory
+    
+Successfully completing pick and place
     
 
 

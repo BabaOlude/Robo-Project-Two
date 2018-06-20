@@ -58,18 +58,8 @@ Code
 
     Code Explanation
     
-#!/usr/bin/env python
 
-# Copyright (C) 2017 Udacity Inc.
-#
-# This file is part of Robotic Arm: Pick and Place project for Udacity
-# Robotics nano-degree program
-#
-# All Rights Reserved.
 
-# Author: Harsh Pandya
-
-# import modules
 import rospy
 import tf
 from kuka_arm.srv import *

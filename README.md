@@ -5,6 +5,11 @@ In this project I used what I learned about how to control a robot with six degr
  ![alt tag](https://d17h27t6h515a5.cloudfront.net/topher/2017/July/5975d719_fk/fk.png)
  
 
+ ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Pick%20and%20Place%201.png)
+
+
+
+ ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Pick%20and%20Place%202.png)
 
 
 
@@ -46,11 +51,6 @@ Rubric Component
     Successfully completing pick and place
     
 
-  ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Pick%20and%20Place%201.png)
-
-
-
-  ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Pick%20and%20Place%202.png)
 
 
 

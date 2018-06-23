@@ -137,9 +137,9 @@ if __name__ == "__main__":
     
 Results Discussion
 
-    What Worked
-
     What Didn't Work
-
+    - The only thing that didn't work for me had to do with my own learning curve. I couldn't figure out how to make the screem bigger on my VM. My mentor suggested another VM but because of time constraints I haven't been able to get that other VM going which would allow me to view the simulation on a full screen.
+    What Worked
+    - Everything else
     Future Improvements
     - I really enjoyed the project and I didn’t see anything that I would improve. It was a great project.

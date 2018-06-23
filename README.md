@@ -42,6 +42,8 @@ Best solution among multiple solutions
     
 Project Implementation
 -Commands
+
+
 $ mkdir -p ~/catkin_ws/src
 $ cd ~/catkin_ws/
 $ catkin_make
@@ -65,6 +67,8 @@ $ source ~/catkin_ws/devel/setup.bash
 $ echo "export GAZEBO_MODEL_PATH=~/catkin_ws/src/RoboND-Kinematics-Project/kuka_arm/models" >> ~/.bashrc
 
 In another terminal
+
+
 $ cd ~/catkin_ws/src/RoboND-Kinematics-Project/kuka_arm/scripts
 $ ./safe_spawner.sh
 

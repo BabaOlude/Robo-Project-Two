@@ -12,7 +12,7 @@ In this project I used what I learned about how to control a robot with six degr
  ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Pick%20and%20Place%202.png)
 
 
- ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Pick%20and%20Place%201.png)
+ ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Written%20Work%20First%20Page.png)
 
 Rubric Component
 

@@ -14,9 +14,9 @@ In this project I used what I learned about how to control a robot with six degr
 
  ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Written%20Work%20First%20Page.png)
  
- ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Written%20Work%20First%20Page.png)
+ ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Written%20Work%20Second%20Page.png)
  
- ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Written%20Work%20First%20Page.png)
+ ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Written%20Work%20Third%20Page.png)
 
 Rubric Component
 

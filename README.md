@@ -182,5 +182,4 @@ Results Discussion
     - Everything else
     Future Improvements
     - I really enjoyed the project and I didn’t see anything that I would improve. It was a great project.
-    
-Please see the video for results
+

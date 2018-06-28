@@ -4,7 +4,6 @@ In this project I used what I learned about how to control a robot with six degr
 
  ![alt tag](https://d17h27t6h515a5.cloudfront.net/topher/2017/July/5975d719_fk/fk.png)
 
- ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Written%20Work%20First%20Page.png)
  
 
 
@@ -16,6 +15,9 @@ Annotated figure of the robot
 
  ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Pick%20and%20Place%202.png)    
 Pen and paper figures
+
+ ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Written%20Work%20First%20Page.png)
+
  ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Written%20Work%20Second%20Page.png)
  
  ![alt tag](https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Written%20Work%20Third%20Page.png)
@@ -23,15 +25,7 @@ Pen and paper figures
   ![alt tag]( https://github.com/BabaOlude/Robo-Project-Two/blob/master/misc_images/Written%20Work%204.png)
 
     
-Using the DH paramter to create individual transform matrices about each joint
-    
-Generalized homogeneous transform between base_link and gripper_link using on end effector pose
-    
-Handwritten matrices
-    
-Explanation of how the matrices were created
-       
-Derived equations for calculating joint angles
+
     
 
     
